@@ -54,7 +54,10 @@ Data Carpentry's teaching is hands-on, so participants are encouraged to bring i
 
 
 
-<p><strong>Twitter</strong>: #datacarpentry</p> @datacarpentry
+<p><strong>Twitter</strong>:
+<a href="https://twitter.com/hashtag/datacarpentry">#datacarpentry</a>
+<a href="https://twitter.com/datacarpentry">@datacarpentry</a>
+</p>
 
 
 <h2>Acknowledgements &amp; Support</h2>
