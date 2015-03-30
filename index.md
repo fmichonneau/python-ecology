@@ -20,8 +20,6 @@ raw: raw.github.com/datacarpentry/2015-04-23-stanford/gh-pages
 {% endif %}
 
 
-Short intro to the materials here: 
-
 Data Carpentry's aim is to teach researchers basic concepts, skills,
 and tools for working with data so that they can get more done in less
 time, and with less pain. The lessons below were designed for those interested in 
@@ -41,7 +39,7 @@ working with ecological data in Python.
 
 >Updates will be posted to this website as they become available.
 
-Data files for the workshop are available at: (LINK HERE)[]
+Data files for the workshop are available at: [Python Data Sets](./dc-python-data.zip)
 
 
 
