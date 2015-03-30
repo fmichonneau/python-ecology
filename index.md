@@ -34,7 +34,7 @@ working with ecological data in Python.
 * [Merging Data](./04-merging-data)
 * [Data Analysis Automation: Loops and Functions](./05-loops-and-functions)
 * [Plotting with Matplotlib](./06-plotting-with-matplotlib)
-* [Putting It All Together](./07-putting-it-all-together)
+<!-- * [Putting It All Together](./07-putting-it-all-together) -->
 
 
 >Updates will be posted to this website as they become available.
